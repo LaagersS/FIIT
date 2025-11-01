@@ -3,8 +3,8 @@
     <th colspan="2">REGSIM</th>
   </tr>
   <tr>
-    <th>Мова</th>
-    <th>Посилання</th>
+    <th>Language</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>🇬🇧 English</td>
