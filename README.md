@@ -25,6 +25,6 @@
   </tr>
   <tr>
     <th>🇬🇧 / 🇺🇦</th>
-    <td><a href="RegSim_en.md">Read</a></td>
+    <td><a href="LogiSim.md">Read</a></td>
   </tr>
 </table>
